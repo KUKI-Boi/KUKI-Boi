@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likith Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Electrical+Engineer;EV+Systems+Enthusiast;MATLAB+%7C+Simulink+Developer;Control+Systems+Engineer" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Likith Kumar</h1>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Electrical+Engineer;EV+Systems+Enthusiast;MATLAB+%7C+Simulink+Developer;Control+Systems+Engineer;Energy+Storage+Researcher" />
 </p>
 
@@ -98,4 +92,3 @@ https://github.com/KUKI-Boi
 ---
 
 ⭐ *Engineering the future of EV systems and control technologies*
-
