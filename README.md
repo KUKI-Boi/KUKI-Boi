@@ -61,15 +61,16 @@ https://github.com/KUKI-Boi/zbus-matrix-builder
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KUKI-Boi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KUKI-Boi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUKI-Boi&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUKI-Boi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
+>
 
 ---
 
