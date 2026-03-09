@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Likith Kumar</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Electrical+Engineer;EV+Systems+Enthusiast;MATLAB+%7C+Simulink+Developer;Control+Systems+Engineer" />
+</p>
 <!--
 **KUKI-Boi/KUKI-Boi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
