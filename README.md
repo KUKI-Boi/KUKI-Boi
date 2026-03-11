@@ -86,9 +86,8 @@ https://github.com/KUKI-Boi/zbus-matrix-builder
 🔗 LinkedIn
 https://www.linkedin.com/in/likith-kumar-b-m-602ba8315/
 
-💻 GitHub
-https://github.com/KUKI-Boi
-
+💻 Mail
+likithkumarbm@gmail.com
 ---
 
 ## 🐍 Contribution Snake
