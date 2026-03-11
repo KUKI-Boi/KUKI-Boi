@@ -83,11 +83,12 @@ https://github.com/KUKI-Boi/zbus-matrix-builder
 
 # 🌐 Connect With Me
 
-🔗 LinkedIn
+🔗 **LinkedIn**  
 https://www.linkedin.com/in/likith-kumar-b-m-602ba8315/
 
-💻 Mail
+📧 **Email**  
 likithkumarbm@gmail.com
+
 ---
 
 ## 🐍 Contribution Snake
