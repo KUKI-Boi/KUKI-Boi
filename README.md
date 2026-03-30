@@ -73,14 +73,6 @@ https://github.com/KUKI-Boi/zbus-matrix-builder
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KUKI-Boi&theme=tokyonight"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 🔗 **LinkedIn**  
