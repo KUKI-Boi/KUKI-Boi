@@ -83,10 +83,4 @@ likithkumarbm@gmail.com
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/KUKI-Boi/KUKI-Boi/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ *Engineering the future of EV systems and control technologies*
