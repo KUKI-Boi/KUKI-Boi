@@ -88,7 +88,7 @@ https://github.com/KUKI-Boi/zbus-matrix-builder
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/KUKI-Boi/KUKI-Boi/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/KUKI-Boi/KUKI-Boi/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
