@@ -6,23 +6,23 @@
 
 ---
 
-# ⚡ About Me
+## ⚡ About Me
 
 🎓 Electrical and Electronics Engineering Student
 
 🔋 Interested in **Electric Vehicles, Energy Storage Systems, and Control Systems**
 
-⚙️ Experienced with **MATLAB, Simulink, Power Systems and Engineering Simulations**
+⚙️ Experienced with **MATLAB, Simulink, Power Systems, and Engineering Simulations**
 
 🚀 Passionate about building **interactive engineering simulations and EV technologies**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔋 Hybrid Energy Storage System (HESS)
 
-Hybrid Battery–Supercapacitor system for EVs with energy management simulation.
+Hybrid Battery–Supercapacitor system for EVs with energy management simulation
 
 🌐 Live Demo
 https://kuki-boi.github.io/hybrid-energy-storage-system/
@@ -34,7 +34,7 @@ https://github.com/KUKI-Boi/hybrid-energy-storage-system
 
 ### ✈️ Aircraft Altitude Hold Controller
 
-Aircraft control system simulation using MATLAB and control system modeling.
+Aircraft control system simulation using MATLAB and control system modeling
 
 📂 Repository
 https://github.com/KUKI-Boi/altitude-hold-controller
@@ -43,21 +43,25 @@ https://github.com/KUKI-Boi/altitude-hold-controller
 
 ### 📊 Y-Bus Matrix Builder
 
-Interactive MATLAB tool for generating Y-Bus matrices for power systems.
+Interactive MATLAB tool for generating Y-Bus matrices for power systems
 
 📂 Repository
 https://github.com/KUKI-Boi/zbus-matrix-builder
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge\&logo=Mathworks)
-![Simulink](https://img.shields.io/badge/Simulink-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+<p align="center">
+
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks" />
+<img src="https://img.shields.io/badge/Simulink-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+
+</p>
 
 ---
 
@@ -73,7 +77,7 @@ https://github.com/KUKI-Boi/zbus-matrix-builder
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUKI-Boi&theme=tokyonight"/>
@@ -81,13 +85,21 @@ https://github.com/KUKI-Boi/zbus-matrix-builder
 
 ---
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-🔗 **LinkedIn**  
+<p align="center">
+<img src="https://github.com/KUKI-Boi/KUKI-Boi/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+🔗 **LinkedIn**
 https://www.linkedin.com/in/likith-kumar-b-m-602ba8315/
 
-📧 **Email**  
-likithkumarbm@gmail.com
+📧 **Email**
+[likithkumarbm@gmail.com](mailto:likithkumarbm@gmail.com)
 
 ---
 
